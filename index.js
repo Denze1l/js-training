@@ -73,7 +73,7 @@
 
 // console.log(Number.g);
 
-////////////////////// NEW OPERATOR/////////////
+//////////// NEW OPERATOR/////////////
 const someFunc = function (a, b, v) {
   this.a = a;
   this.b = b;
